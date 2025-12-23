@@ -16,13 +16,19 @@ Simple and clean UI
 
 🛠 Tech Stack
 
+Python
+
 HTML
 
 CSS
 
 JavaScript
 
-(Update this if you use React, Next.js, etc.)
+React Js
+
+My SQL
+
+
 
 📂 Projects
 
